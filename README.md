@@ -19,7 +19,7 @@ I'm Apotchya
 - 🎮 Gaming (especially adorable indie games)
 - 🌸 Exploring New Technologies
 
-  [![Tech Stack](https://img.shields.io/badge/Tech%20Stack-Exploring-brightgreen?style=for-the-badge&logo=code)
+![Static Badge](https://img.shields.io/badge/TechStack-pink)
 
 - 💻 **Python:** Currently learning Python, a versatile language for tasks like scripting, automation, and penetration testing.
   [![Python](https://img.shields.io/badge/Python-Learning-brightgreen?style=for-the-badge&logo=python)](https://www.python.org/)
