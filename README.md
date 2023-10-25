@@ -1,6 +1,6 @@
 ### Hi there!
 
-I'm Apotchya
+I'm Aimnsy
 
 🏢 Cybersecurity Analyst 🏢
 
