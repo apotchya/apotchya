@@ -19,6 +19,16 @@ I'm Apotchya
 - 🎮 Gaming (especially adorable indie games)
 - 🌸 Exploring New Technologies
 
+  [![Tech Stack](https://img.shields.io/badge/Tech%20Stack-Exploring-brightgreen?style=for-the-badge&logo=code)
+
+- 💻 **Python:** Currently learning Python, a versatile language for tasks like scripting, automation, and penetration testing.
+  [![Python](https://img.shields.io/badge/Python-Learning-brightgreen?style=for-the-badge&logo=python)](https://www.python.org/)
+
+- 🌐 **HTML:** Proficient in HTML for web, identifying vulnerabilities, and understanding web applications.
+  [![HTML](https://img.shields.io/badge/HTML-Proficient-brightgreen?style=for-the-badge&logo=html5)](https://www.w3.org/TR/html52/)
+
+As a coding enthusiast and a constant learner, I'm dedicated to enhancing my skills to stay ahead of the latest threats in the dynamic cybersecurity landscape. 🚀🔒
+
 🌺 Let's Connect! 🌺
 You can find me on:
 
