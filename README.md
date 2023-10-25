@@ -25,7 +25,7 @@ I'm Apotchya
   [![Python](https://img.shields.io/badge/Python-Learning-brightgreen?style=for-the-badge&logo=python)](https://www.python.org/)
 
 - 🌐 **HTML:** Proficient in HTML for web, identifying vulnerabilities, and understanding web applications.
-  [![HTML](https://img.shields.io/badge/HTML-Proficient-brightgreen?style=for-the-badge&logo=html5)](https://www.w3.org/TR/html52/)
+  [![HTML](https://img.shields.io/badge/HTML-brightgreen?style=for-the-badge&logo=html5)](https://www.w3.org/TR/html52/)
 
 As a coding enthusiast and a constant learner, I'm dedicated to enhancing my skills to stay ahead of the latest threats in the dynamic cybersecurity landscape. 🚀🔒
 
