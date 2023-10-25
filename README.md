@@ -19,8 +19,8 @@ I'm Apotchya
 Let's create something together 💁‍♀️
 You can find me on:
 
-![image](https://github.com/apotchya/apotchya/assets/148978698/4d9aa984-bd0a-4c5d-82c4-ed8811ce7f54)
-![image](https://github.com/apotchya/apotchya/assets/148978698/f63302fa-22d3-40e9-b9d7-18cc42f4f31b)
+    ![image](https://github.com/apotchya/apotchya/assets/148978698/4d9aa984-bd0a-4c5d-82c4-ed8811ce7f54)
+    ![image](https://github.com/apotchya/apotchya/assets/148978698/f63302fa-22d3-40e9-b9d7-18cc42f4f31b)
 
 
 🌷 Thanks for stopping by! 🌷
