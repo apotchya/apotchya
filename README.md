@@ -1,4 +1,7 @@
-### Hi there!
+![Flower](https://emojicombos.com/emoji.png)
+![Flower](https://emojicombos.com/emoji.png)
+
+### Hi there! 🌸
 
 I'm Apotchya 🌸
 
@@ -19,7 +22,7 @@ I'm Apotchya 🌸
 Let's create something together! 💁‍♀️
 You can find me on:
 
-[Discord - Aimnsy#0349](https://discord.com/users/aimnsy#0349)
-[Twitter - @yasmintxf](https://twitter.com/yasmintxf)
+[![Discord - Aimnsy#0349](https://img.shields.io/badge/Discord-Aimnsy%230349-pink?style=for-the-badge&logo=discord)](https://discord.com/users/Aimnsy)
+[![Twitter - @yasmintxf](https://img.shields.io/badge/Twitter-@yasmintxf-pink?style=for-the-badge&logo=twitter)](https://twitter.com/yasmintxf)
 
 🌷 Thanks for stopping by! 🌷
