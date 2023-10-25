@@ -22,7 +22,7 @@ I'm Apotchya
 ![TechStack](https://img.shields.io/badge/TechStack-pink?style=for-the-badge)
 
 - 💻 **Python:** Currently learning Python, a versatile language for tasks like scripting, automation, and penetration testing.
-  [![Python](https://img.shields.io/badge/Python-Learning-ligth-green?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-Learning-lightgreen?style=for-the-badge&logo=python)](https://www.python.org/)
 
 - 🌐 **HTML:** Proficient in HTML for web, identifying vulnerabilities, and understanding web applications.
   [![HTML](https://img.shields.io/badge/HTML-gray?style=for-the-badge&logo=html5)](https://www.w3.org/TR/html52/)
