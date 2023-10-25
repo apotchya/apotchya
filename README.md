@@ -19,8 +19,7 @@ I'm Apotchya 🌸
 Let's create something together! 💁‍♀️
 You can find me on:
 
-![Discord](https://discord.com/aimnsy#0349)
-![Twitter](https://twitter.com/yasmintxf)
+[Discord - Aimnsy#0349](https://discord.com/users/YourDiscordUserID)
+[Twitter - @yasmintxf](https://twitter.com/yasmintxf)
 
 🌷 Thanks for stopping by! 🌷
-
