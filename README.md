@@ -15,17 +15,15 @@ I'm Apotchya
 🌟 Interests 🌟
 
 - 💕 Coding and Programming
-- 🎨 Digital Art and Illustration
-- 🎮 Gaming (especially adorable indie games)
+- 🎮 Gaming (especially indie games)
 - 🌸 Exploring New Technologies
 
-![TechStack](https://img.shields.io/badge/TechStack-pink?style=for-the-badge)
-- 💻 **Python:** Currently learning Python, a versatile language for tasks like scripting, automation, and penetration testing.
-[![Python](https://img.shields.io/badge/Python-Learning-lightgreen?style=for-the-badge&logo=python)](https://www.python.org/)
+  ![TechStack](https://img.shields.io/badge/TechStack-pink?style=for-the-badge)
 
-- 🌐 **HTML:** Proficient in HTML for web, identifying vulnerabilities, and understanding web applications.
-  [![HTML](https://img.shields.io/badge/HTML-gray?style=for-the-badge&logo=html5)](https://www.w3.org/TR/html52/)
+  
+  [![Python](https://img.shields.io/badge/Python-Learning-lightgreen?style=for-the-badge&logo=python)](https://www.python.org/) [![HTML](https://img.shields.io/badge/HTML-gray?style=for-the-badge&logo=html5)](https://www.w3.org/TR/html52/) [![Udemy Student](https://img.shields.io/badge/Udemy%20Student-grey?style=for-the-badge&logo=udemy)](https://www.udemy.com/)
 
+  
 As a coding enthusiast and a constant learner, I'm dedicated to enhancing my skills to stay ahead of the latest threats in the dynamic cybersecurity landscape. 🚀🔒
 
 🌺 Let's Connect! 🌺
