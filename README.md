@@ -1,6 +1,3 @@
-![Flower](https://emojicombos.com/emoji.png)
-![Flower](https://emojicombos.com/emoji.png)
-
 ### Hi there! 🌸
 
 I'm Apotchya 🌸
