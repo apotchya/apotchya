@@ -1,6 +1,11 @@
 ### Hi there! 🌸
 
-I'm Apotchya 🌸
+I'm Apotchya
+
+🏢 Cybersecurity Analyst 🏢
+
+- 💼 Working to keep the digital world secure.
+- 📚 Always learning and staying updated on the latest threats.
 
 🌸 About Me 🌸
 
@@ -15,8 +20,6 @@ I'm Apotchya 🌸
 - 🌸 Exploring New Technologies
 
 🌺 Let's Connect! 🌺
-
-Let's create something together! 💁‍♀️
 You can find me on:
 
 [![Discord - Aimnsy#0349](https://img.shields.io/badge/Discord-Aimnsy%230349-pink?style=for-the-badge&logo=discord)](https://discord.com/users/Aimnsy)
