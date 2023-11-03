@@ -1,6 +1,6 @@
 ### Hi there!
 
-I'm Aimnsy and this is my new ac
+I'm Aimnsy and this is my new acc.
 
 🏢 Cybersecurity Analyst 🏢
 
